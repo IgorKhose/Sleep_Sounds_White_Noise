@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Sleep Sounds - White Noise</string>
+    <string name="rainImg">Rain image</string>
+    <string name="trainImg">Train image</string>
+    <string name="treeImg">Forest image</string>
+    <string name="rainImgBig">Rain image</string>
+    <string name="trainImgBig">Train image</string>
+    <string name="splashImg">Splash image</string>
+    <string name="txtSplash">Sleep Sounds</string>
+    <string name="treeImgBig">Forest image</string>
+    <string name="play_pause">Play - pause image</string>
+    <string name="txtRain">Rainy day</string>
+    <string name="txtTrain">Long road</string>
+    <string name="txtTree">Summer forest</string>
+
+
+</resources>
